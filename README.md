@@ -1,5 +1,5 @@
 # swift-in-terminal
-Code with Swift in terminal
+Code with Swift in Terminal
 
 Note: You should install first Xcode into your Mac
 1. Open Terminal.
